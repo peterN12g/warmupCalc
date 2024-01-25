@@ -34,7 +34,7 @@
 <body>
   <main>
     <h1>Powerlifting Warmup Calculator</h1>
-    <p>Choose your lift:</p>
+    <p>Choose your lift below:</p>
     <div>
       <a href="Squat"><button>Squat</button></a>
       <a href="Bench"><button>Bench</button></a>
